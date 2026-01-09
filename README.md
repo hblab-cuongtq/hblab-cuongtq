@@ -1,8 +1,9 @@
 # 😎 Hello World, I’m Cuong!
-
 ```bash
-$ whoami
+
+$Name
 Tran Quoc Cuong
 
-$ status
+$Status
 Bug today, fix tomorrow, coffee forever ☕
+
